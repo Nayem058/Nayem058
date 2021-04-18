@@ -20,8 +20,8 @@ I loved programming. I am full stack web developer in PHP and LARAVEL. I love le
 <p align="left">
 <a href="https://twitter.com/nayemuddin058" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nayemuddin058" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nayem-uddin058/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nayem-uddin058/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nayemuddin058/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/nayemuddin058/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nayemuddin_058/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nayemuddin_058/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nayemuddin058/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/nayemuddin058/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nayemuddin_058/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nayemuddin_058/" height="30" width="40" /></a>
 </p>
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -63,13 +63,13 @@ I loved programming. I am full stack web developer in PHP and LARAVEL. I love le
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
+![Visitor](https://komarev.com/ghpvc/?username=nayem058&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nayem058)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/Nayem058/Nayem058?style=flat-square&color=blueviolet)
 
-![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayem058&show_icons=true&theme=dracula)
+![Nayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayem058&show_icons=true&theme=dracula)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem058&theme=dracula)
 
 
